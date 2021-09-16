@@ -2,7 +2,7 @@
 
  > I'm creating this repository after getting rejected from ShareChat
 
-
+## About Activity Lifecycle
 ### Activity Lifecycle (in execution order) -
 
 **onCreate()** -	called when activity is first created.
@@ -69,3 +69,8 @@ onStop() -> If you cannot see any part of it
 
 A dialog, for example, may not cover the entire previous Activity, and this would be a time for onPause() to be called
 
+## General Questions
+
+1. Tell me about <a href="https://developer.android.com/training/dependency-injection">Dependency Injection</a>
+2. Tell me about <a href="https://developer.android.com/jetpack">Jetpack Libraries </a>
+3. Why shoud we use an app architecture and what are the best practices?<a href="https://medium.com/oceanize-geeks/android-application-architecture-189b4721c7c5">read</a> 
