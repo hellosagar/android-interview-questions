@@ -55,5 +55,8 @@ onStop() - (B)
 
 onDestroy() - (B)
 
+### onStart vs onResume
+onStart() -> called when the activity becomes visible, but might not be in the foreground (e.g. an AlertFragment is on top or any other possible use case).
 
+onResume() -> called when the activity is in the foreground, or the user can interact with the Activity.
 
