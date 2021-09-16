@@ -19,6 +19,7 @@
 
 **onDestroy()** -	called before the activity is destroyed.
 
+Note - The onCreate() and onDestroy() methods are called only once throughout the activity lifecycle.
 
 ## Uses case of activity lifecycle with execution order
 
