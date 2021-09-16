@@ -1,4 +1,4 @@
-# android-interview-questions that I've faced so far or I think important
+# Android interview questions that I've faced so far or I think important
 
  > I'm creating this repository after getting rejected from ShareChat
 
