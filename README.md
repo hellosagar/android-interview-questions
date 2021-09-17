@@ -24,20 +24,20 @@ An **activity** provides the window in which the app draws its UI. This window t
 
 | Method  | Called When  |
 |---|---|
-| onCreate()   | It is called when activity is first created.  |
-| onStart()    | It is called when activity is becoming visible to the user.  |
-| onResume()   | It is called when activity will start interacting with the user.  |
-| onPause()    | It is called when activity is not visible to the user.  |
-| onStop()     | It is called when activity is no longer visible to the user.  |
-| onRestart()  | It is called after your activity is stopped, prior to start.  |
-| onDestroy()  | It is called before the activity is destroyed.  |
+| onCreate()   | Activity is first created.  |
+| onStart()    | Activity is becoming visible to the user.  |
+| onResume()   | Activity will start interacting with the user.  |
+| onPause()    | Activity is not visible to the user.  |
+| onStop()     | Activity is no longer visible to the user.  |
+| onRestart()  | After activity is stopped, prior to start.  |
+| onDestroy()  | Before activity is destroyed.  |
 
  >*Note - The onCreate() and onDestroy() methods are called only once throughout the activity lifecycle.
 
 
 ### Uses case of activity lifecycle with execution order
 
-###### **When activity is opened:**
+##### **When activity is opened:**
 ```kotlin
 onCreate()
 
@@ -45,7 +45,7 @@ onStart()
 
 onResume()
 ```
-###### **When moved to another activity:**
+##### **When moved to another activity:**
 > Here A == first activity and B == second activity
 
 ```kotlin
@@ -60,7 +60,7 @@ onResume() - (B)
 onStop() - (A)
 ```
 
-###### **When another activity is closed and moving back to first activity:**
+##### **When another activity is closed and moving back to first activity:**
 
 ```kotlin
 onPause() - (B)
