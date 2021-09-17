@@ -6,7 +6,7 @@
 -------
 ### Explain briefly all the Android application components
 
- Ans - **App components** are the essential building blocks of an Android app. Each component is an entry point through which the system or a user can enter your app.
+**App components** are the essential building blocks of an Android app. Each component is an entry point through which the system or a user can enter your app.
 There are four different types of app components :
 
 * **Activities** - An activity is the entry point for interacting with the user. It represents a single screen with a user interface.
