@@ -97,3 +97,6 @@ A dialog, for example, may not cover the entire previous Activity, and this woul
 - Why shoud we use an app architecture and what are the best practices?<a href="https://medium.com/oceanize-geeks/android-application-architecture-189b4721c7c5"> read</a> 
 - What are Services, Broadcast receivers and Content providers?<a href="https://developer.android.com/guide/components/fundamentals"> read</a>
 - Tell me about the Manifest file, what is it's role?<a href="https://developer.android.com/guide/components/fundamentals#Manifest"> read</a>
+- On which thread would you update the UI components?- Main thread.
+- What are the diffrences between MVVM, MVC and MVP?<a href="https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android"> read</a>
+- How to interact with other apps?<a href="https://developer.android.com/training/basics/intents"> read</a>
