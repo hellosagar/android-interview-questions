@@ -3,7 +3,6 @@
  > I'm creating this repository after getting rejected from ShareChat
 
 ## Android Components
--------
 ### Explain briefly all the Android application components
 
 **App components** are the essential building blocks of an Android app. Each component is an entry point through which the system or a user can enter your app.
@@ -88,6 +87,8 @@ onDestroy() - (B)
 
 
 A dialog, for example, may not cover the entire previous Activity, and this would be a time for onPause() to be called
+
+------
 
 ## General Questions
 
