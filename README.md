@@ -100,3 +100,6 @@ A dialog, for example, may not cover the entire previous Activity, and this woul
 - On which thread would you update the UI components?- Main thread.
 - What are the diffrences between MVVM, MVC and MVP?<a href="https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android"> read</a>
 - How to interact with other apps?<a href="https://developer.android.com/training/basics/intents"> read</a>
+- What is NDK and why is it used?<a href="https://stackoverflow.com/questions/6660621/what-is-the-android-native-development-kit-ndk"> read</a>
+- What is the diffrence between .apk and .aab?<a href="https://stackoverflow.com/questions/52059339/difference-between-apk-apk-and-app-bundle-aab"> read</a>
+- What is databinding?<a href="https://developer.android.com/topic/libraries/data-binding"> read</a>
