@@ -103,3 +103,5 @@ A dialog, for example, may not cover the entire previous Activity, and this woul
 - What is NDK and why is it used?<a href="https://stackoverflow.com/questions/6660621/what-is-the-android-native-development-kit-ndk"> read</a>
 - What is the diffrence between .apk and .aab?<a href="https://stackoverflow.com/questions/52059339/difference-between-apk-apk-and-app-bundle-aab"> read</a>
 - What is databinding?<a href="https://developer.android.com/topic/libraries/data-binding"> read</a>
+- What makes kotlin the best language for native development?<a href="https://kotlinlang.org/docs/comparison-to-java.html"> read</a>
+- Explain the internal working of a RecyclerView.<a href="https://blog.mindorks.com/how-does-recyclerview-work-internally"> read</a>
