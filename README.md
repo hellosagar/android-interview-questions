@@ -92,16 +92,17 @@ A dialog, for example, may not cover the entire previous Activity, and this woul
 
 ## General Questions
 
-- Tell me about <a href="https://developer.android.com/training/dependency-injection">Dependency Injection</a>
 - Tell me about <a href="https://developer.android.com/jetpack">Jetpack Libraries </a>
 - Why shoud we use an app architecture and what are the best practices?<a href="https://medium.com/oceanize-geeks/android-application-architecture-189b4721c7c5"> read</a> 
 - What are Services, Broadcast receivers and Content providers?<a href="https://developer.android.com/guide/components/fundamentals"> read</a>
 - Tell me about the Manifest file, what is it's role?<a href="https://developer.android.com/guide/components/fundamentals#Manifest"> read</a>
+- What makes kotlin the best language for native development?<a href="https://kotlinlang.org/docs/comparison-to-java.html"> read</a>
+- Explain the internal working of a RecyclerView.<a href="https://blog.mindorks.com/how-does-recyclerview-work-internally"> read</a>
 - On which thread would you update the UI components?- Main thread.
 - What are the diffrences between MVVM, MVC and MVP?<a href="https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android"> read</a>
 - How to interact with other apps?<a href="https://developer.android.com/training/basics/intents"> read</a>
+- Tell me about <a href="https://developer.android.com/training/dependency-injection">Dependency Injection</a>
 - What is NDK and why is it used?<a href="https://stackoverflow.com/questions/6660621/what-is-the-android-native-development-kit-ndk"> read</a>
 - What is the diffrence between .apk and .aab?<a href="https://stackoverflow.com/questions/52059339/difference-between-apk-apk-and-app-bundle-aab"> read</a>
 - What is databinding?<a href="https://developer.android.com/topic/libraries/data-binding"> read</a>
-- What makes kotlin the best language for native development?<a href="https://kotlinlang.org/docs/comparison-to-java.html"> read</a>
-- Explain the internal working of a RecyclerView.<a href="https://blog.mindorks.com/how-does-recyclerview-work-internally"> read</a>
+- Explain the SOLID principles and why are they important?<a href="https://medium.com/android-news/android-development-the-solid-principles-3b5779b105d2"> read</a>
