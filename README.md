@@ -90,11 +90,11 @@ A dialog, for example, may not cover the entire previous Activity, and this woul
 
 
 ## 5 Anti patterns in android
-- Using base classes: Causes the tight coupling
-- Putting all dependencies in AppModule: Hard to read and during testing, we can't get the specific module
-- Using one activity per screen: Activity is heavy as it uses intent to open which internally talks to the android system and the fragment is similar to displaying a layout.
-- Hardcoding dispatchers: It forces the coroutine to use the particular dispatcher whereas in testing we need to pass the test dispatcher.
-- Using GlobalScope: Its keeps running during the application process and doesn't care about the lifecycle of the component which causes memory leak or dead object exception.
+- **Using base classes**: Causes the tight coupling
+- **Putting all dependencies in AppModule**: Hard to read and during testing, we can't get the specific module
+- **Using one activity per screen**: Activity is heavy as it uses intent to open which internally talks to the android system and the fragment is similar to displaying a layout.
+- **Hardcoding dispatchers**: It forces the coroutine to use the particular dispatcher whereas in testing we need to pass the test dispatcher.
+- **Using GlobalScope**: Its keeps running during the application process and doesn't care about the lifecycle of the component which causes memory leak or dead object exception.
 
 Thanks to Philipp Lackner for making a video on this - <a href="https://www.youtube.com/watch?v=skW4wSuXCe0">Link</a>
 
@@ -112,10 +112,15 @@ Thanks to Philipp Lackner for making a video on this - <a href="https://www.yout
 
 ## SOLID stands for:
 S - Single-responsiblity Principle
+
 O - Open-closed Principle
+
 L - Liskov Substitution Principle
+
 I - Interface Segregation Principle
+
 D - Dependency Inversion Principle
+
 
 Thanks to Digital Ocean for writing a article on this - <a href="https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">Link</a>
 
