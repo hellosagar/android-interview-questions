@@ -96,7 +96,7 @@ A dialog, for example, may not cover the entire previous Activity, and this woul
 - Hardcoding dispatchers
 - Using GlobalScope
 
-Thanks to Philipp Lackner for making a video on this
+Thanks to Philipp Lackner for making a video on this - <a href="https://www.youtube.com/watch?v=skW4wSuXCe0">Link</a>
 
 ## General Questions
 
