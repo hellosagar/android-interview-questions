@@ -98,6 +98,17 @@ A dialog, for example, may not cover the entire previous Activity, and this woul
 
 Thanks to Philipp Lackner for making a video on this - <a href="https://www.youtube.com/watch?v=skW4wSuXCe0">Link</a>
 
+
+## 6 Design pattern every android developer must know
+- Singleton
+- Factory
+- Builder
+- Facade
+- Dependency Injection
+- Adapter
+
+Thanks to Philipp Lackner for making a video on this - <a href="https://www.youtube.com/watch?v=4cCwuBsqfTI">Link</a>
+
 ## General Questions
 
 - Tell me about <a href="https://developer.android.com/jetpack">Jetpack Libraries </a>
