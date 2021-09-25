@@ -88,7 +88,15 @@ onDestroy() - (B)
 
 A dialog, for example, may not cover the entire previous Activity, and this would be a time for onPause() to be called
 
-------
+
+## 5 Anti patterns in android
+- Using base classes
+- Putting all dependencies in AppModule
+- Using one activity per screen
+- Hardcoding dispatchers
+- Using GlobalScope
+
+Thanks to Philipp Lackner for making a video on this
 
 ## General Questions
 
