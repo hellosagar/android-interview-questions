@@ -121,8 +121,9 @@ I - Interface Segregation Principle
 
 D - Dependency Inversion Principle
 
+> Summary: we can said that the Single Responsibility Principle is about actors and high level architecture. The Open/Closed Principle is about class design and feature extensions. The Liskov Substitution Principle is about subtyping and inheritance. The Interface Segregation Principle (ISP) is about business logic to clients communication. And the Dependency Inversion Principale (DIP) is about leads or helps us respect all the other principles.
 
-Thanks to Digital Ocean for writing a article on this - <a href="https://www.digitalocean.com/community/conceptual_articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design">Link</a>
+Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://medium.com/android-news/android-development-the-solid-principles-3b5779b105d2">Link</a>
 
 ## General Questions
 
@@ -140,5 +141,4 @@ Thanks to Digital Ocean for writing a article on this - <a href="https://www.dig
 - What is NDK and why is it used?<a href="https://stackoverflow.com/questions/6660621/what-is-the-android-native-development-kit-ndk">read</a>
 - What is the diffrence between .apk and .aab? <a href="https://stackoverflow.com/questions/52059339/difference-between-apk-apk-and-app-bundle-aab">read</a>
 - What is databinding? <a href="https://developer.android.com/topic/libraries/data-binding">read</a>
-- Explain the SOLID principles and why are they important? <a href="https://medium.com/android-news/android-development-the-solid-principles-3b5779b105d2">read</a>
 - What is KAPT? <a href="https://mdapp.medium.com/annotation-processing-with-kapt-and-gradle-237793f2be57">read</a>
