@@ -131,6 +131,7 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - Why shoud we use an app architecture and what are the best practices? <a href="https://medium.com/oceanize-geeks/android-application-architecture-189b4721c7c5">read</a> 
 - What are Services, Broadcast receivers and Content providers? <a href="https://developer.android.com/guide/components/fundamentals">read</a>
 - Tell me about the Manifest file, what is it's role? <a href="https://developer.android.com/guide/components/fundamentals#Manifest">read</a>
+- Difference between const and val? - val variable is initialized at runtime and const at compile time. Read more <a href="https://blog.mindorks.com/what-is-the-difference-between-const-and-val">here</a>
 - What are diffrent Launch modes in android? <a href="https://medium.com/mindorks/android-launch-mode-787d28952959">read</a>
 - What makes kotlin the best language for native development? <a href="https://kotlinlang.org/docs/comparison-to-java.html">read</a>
 - Explain the internal working of a RecyclerView. <a href="https://blog.mindorks.com/how-does-recyclerview-work-internally">read</a>
