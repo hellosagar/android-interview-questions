@@ -134,6 +134,7 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - Difference between const and val? - val variable is initialized at runtime and const at compile time. Read more <a href="https://blog.mindorks.com/what-is-the-difference-between-const-and-val">here</a>
 - Diffrence between sp and dp - sp is same as dp, just android resizes it based on font size set by user.
 - What are diffrent Launch modes in android? <a href="https://medium.com/mindorks/android-launch-mode-787d28952959">read</a>
+- What are implicit and explicit intents? <a href="https://stackoverflow.com/questions/2914881/android-implicit-intents-vs-explicit-intents">read</a>
 - What makes kotlin the best language for native development? <a href="https://kotlinlang.org/docs/comparison-to-java.html">read</a>
 - Explain the internal working of a RecyclerView. <a href="https://blog.mindorks.com/how-does-recyclerview-work-internally">read</a>
 - On which thread would you update the UI components?- Main thread.
