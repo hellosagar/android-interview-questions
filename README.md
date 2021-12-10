@@ -151,3 +151,9 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - What is databinding? <a href="https://developer.android.com/topic/libraries/data-binding">read</a>
 - What is a multi-modular app? <a href="https://proandroiddev.com/modularization-of-android-applications-in-2021-a79a590d5e5b">read</a>
 - What is KAPT? <a href="https://mdapp.medium.com/annotation-processing-with-kapt-and-gradle-237793f2be57">read</a>
+
+## What is expected that you know
+- Basics of oops classes, inheritance, abstractionan and all of that stuff
+- Basic Data sturctures knowledge 
+- Basics of Database (eg SQL)
+- Basic Computer Science curriculum knowledge
