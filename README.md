@@ -139,7 +139,10 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - Explain the internal working of a RecyclerView. <a href="https://blog.mindorks.com/how-does-recyclerview-work-internally">read</a>
 - On which thread would you update the UI components?- Main thread.
 - What are companion objects? <a href="https://medium.com/swlh/kotlin-basics-of-companion-objects-a8422c96779b">read</a>
+- Fragment lifecycle <a href="https://developer.android.com/guide/fragments/lifecycle">read</a>
 - What are the diffrences between MVVM, MVC and MVP? <a href="https://blog.mindorks.com/mvc-mvp-mvvm-architecture-in-android">read</a>
+- How would you implement DI in your preferred architechure.
+- How is Interface useful in your architechure.
 - How to interact with other apps? <a href="https://developer.android.com/training/basics/intents">read</a>
 - How to use vibration in our app? <a href="https://www.geeksforgeeks.org/how-to-vibrate-a-device-programmatically-in-android/">read</a>
 - Tell me about <a href="https://developer.android.com/training/dependency-injection">Dependency Injection</a>
