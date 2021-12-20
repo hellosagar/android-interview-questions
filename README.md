@@ -153,7 +153,8 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - What is KAPT? <a href="https://mdapp.medium.com/annotation-processing-with-kapt-and-gradle-237793f2be57">read</a>
 
 ## What is expected that you know
-- Basics of oops classes, inheritance, abstractionan and all of that stuff
-- Basic Data sturctures knowledge 
+- Basics of oops classes, inheritance, encapsulation, polymorphism and all of that stuff
+- Basic Data sturctures knowledge and problem solving skills 
 - Basics of Database (eg SQL)
+- Basic Operating System knowledge (eg. Threads, cpu scheduling) 
 - Basic Computer Science curriculum knowledge
