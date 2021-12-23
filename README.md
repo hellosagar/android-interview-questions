@@ -158,3 +158,4 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - Basics of Database (eg SQL)
 - Basic Operating System knowledge (eg. Threads, cpu scheduling) 
 - Basic Computer Science curriculum knowledge
+- <a href="https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm">Design patterns</a>
