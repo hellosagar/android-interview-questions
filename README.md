@@ -26,7 +26,7 @@ An **activity** provides the window in which the app draws its UI. This window t
 | onCreate()   | Activity is first created.  |
 | onStart()    | Activity is becoming visible to the user.  |
 | onResume()   | Activity will start interacting with the user.  |
-| onPause()    | Activity is not visible to the user.  |
+| onPause()    | Activity is not interactable to the user.  |
 | onStop()     | Activity is no longer visible to the user.  |
 | onRestart()  | After activity is stopped, prior to start.  |
 | onDestroy()  | Before activity is destroyed.  |
