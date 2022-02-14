@@ -159,3 +159,5 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - Basic Operating System knowledge (eg. Threads, cpu scheduling) 
 - Basic Computer Science curriculum knowledge
 - <a href="https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm">Design patterns</a>
+- Standard library functions of Java/Kotlin
+- Major Views and how to load data in them
