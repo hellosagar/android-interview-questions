@@ -162,3 +162,4 @@ Thanks to Abderrazak Laanaya for writing a article on this - <a href="https://me
 - <a href="https://www.tutorialspoint.com/design_pattern/design_pattern_quick_guide.htm">Design patterns</a>
 - Standard library functions of Java/Kotlin
 - Major Views and how to load data in them
+- Internal Working of <a href="https://www.youtube.com/playlist?list=PLfuE3hOAeWhY8fkzCluHakmK9A3bJsGR0">Activities, Tasks & Stacks</a>
